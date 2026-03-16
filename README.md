@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousra Khalifa</h1>
-<h3 align="center">Senior Flutter Developer | Mobile Applications</h3>
+<h3 align="center">Senior Flutter Developer | AI-powered Mobile Applications</h3>
 
 <p align="center">
 Flutter Developer with 4+ years of experience building scalable, high-performance mobile applications.  
