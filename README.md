@@ -33,8 +33,26 @@ Experienced in delivering production-ready apps published on Google Play, App St
 
 # 🚀 Featured Projects
 
+## Zi Sushi
+A full-featured food ordering app with real-time order tracking, push notifications, guest mode, and bilingual support
+(Arabic & English) with light/dark themes and Implemented secure authentication (Google Sign-In, Apple Sign-In, login/registration).
+
+<img src="images/zi.png" width="700"/>
+
+<p>
+<a href="https://play.google.com/store/search?q=zi%20sushi&c=apps">
+<img src="images/google play logo.png" width="150">
+</a>
+
+<a href="https://apps.apple.com/eg/app/zi-sushi/id1556496432">
+<img src="images/app store logo.png" width="150">
+</a>
+</p>
+
+---
+
 ## Asda Al-Khaleej - أصداء الخليج
-News application delivering **real-time updates, articles, and notifications**.
+News application delivering real-time updates, articles, and notifications.
 
 <img src="images/asdaa.png" width="700"/>
 
@@ -51,7 +69,7 @@ News application delivering **real-time updates, articles, and notifications**.
 ---
 
 ## Tabea - تابع
-Power outage tracking application that helps users **stay informed and prepared for electricity disruptions**.
+Power outage tracking application that helps users stay informed and prepared for electricity disruptions.
 
 <img src="images/tabea.jpg" width="700"/>
 
@@ -68,7 +86,7 @@ Power outage tracking application that helps users **stay informed and prepared 
 ---
 
 ## EUOG
-A medical application designed for **obstetricians and gynecologists** with articles, FAQs, and clinical algorithms.
+A medical application designed for obstetricians and gynecologists with articles, FAQs, and clinical algorithms.
 
 <img src="images/euog.png" width="700"/>
 
