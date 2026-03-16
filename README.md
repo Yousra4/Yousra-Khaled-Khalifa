@@ -15,3 +15,11 @@ future-ready digital products that create meaningful user impact.
   - LinkedIn:   https://www.linkedin.com/in/yousra-khaled-444651244/
   - Email:      yousrakhaled05@gmail.com
 <hr>
+
+<img src="images/asdaa.png" alt="Image">
+<h3>Asda Al-Khaleej - أصداء الخليج</h3>
+<p>Asdaa Al-Khaleej is a user-friendly app with real-time news updates, and notifications</p>  
+<a href="https://play.google.com/store/apps/details?id=com.albadrsystems.asdaaalkhaleej&pcampaignid=web_share" target="_blank" rel="noreferrer"> <img src="images/google play logo.png" alt="c" width="150"/> </a>
+<a href="https://apps.apple.com/eg/app/asda-al-khaleej-%D8%A3%D8%B5%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/id1494863139" target="_blank" rel="noreferrer"> <img src="images/app store logo.png" alt="c" width="150"/> </a>
+<hr>
+
