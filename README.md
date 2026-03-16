@@ -33,7 +33,7 @@ Experienced in delivering production-ready apps published on Google Play, App St
 
 # 🚀 Featured Projects
 
-## 📰 Asda Al-Khaleej - أصداء الخليج
+## Asda Al-Khaleej - أصداء الخليج
 News application delivering **real-time updates, articles, and notifications**.
 
 <img src="images/asdaa.png" width="700"/>
@@ -50,7 +50,7 @@ News application delivering **real-time updates, articles, and notifications**.
 
 ---
 
-## ⚡ Tabea - تابع
+## Tabea - تابع
 Power outage tracking application that helps users **stay informed and prepared for electricity disruptions**.
 
 <img src="images/tabea.jpg" width="700"/>
@@ -67,7 +67,7 @@ Power outage tracking application that helps users **stay informed and prepared 
 
 ---
 
-## 🩺 EUOG
+## EUOG
 A medical application designed for **obstetricians and gynecologists** with articles, FAQs, and clinical algorithms.
 
 <img src="images/euog.png" width="700"/>
@@ -80,7 +80,7 @@ A medical application designed for **obstetricians and gynecologists** with arti
 
 ---
 
-## 🚗 Car2Go
+## Car2Go
 Car rental application project available on GitHub.
 
 <img src="images/car2go.jpg" width="700"/>
