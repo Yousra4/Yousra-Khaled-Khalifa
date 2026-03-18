@@ -51,6 +51,24 @@ A full-featured food ordering app with real-time order tracking, push notificati
 
 ---
 
+## Tawseela Go
+Tawseela is a full-featured ride-hailing app supporting user and driver accounts with profiles, vehicle management, trip requests,
+real-time navigation, and trip history.
+
+<img src="images/tawseela.png" width="700"/>
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.tawseelago.tawseelago">
+<img src="images/google play logo.png" width="150">
+</a>
+
+<a href="https://apps.apple.com/il/app/tawseela-go/id6756280174">
+<img src="images/app store logo.png" width="150">
+</a>
+</p>
+
+---
+
 ## Asda Al-Khaleej - أصداء الخليج
 News application delivering real-time updates, articles, and notifications.
 
