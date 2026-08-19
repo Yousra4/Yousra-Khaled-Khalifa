@@ -33,6 +33,24 @@ Experienced in delivering production-ready apps published on Google Play, App St
 
 # 🚀 Featured Projects
 
+## KOI Sushi
+A full-featured food ordering app with real-time order tracking, payment getaway, push notifications, guest mode, and bilingual support
+(Arabic & English) with light/dark themes, and Implemented secure authentication (Google Sign-In, Apple Sign-In, login/registration).
+
+<img src="images/KOI.png" width="700"/>
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.digitalbondmena.koi&hl=ar">
+<img src="images/google play logo.png" width="150">
+</a>
+
+<a href="https://apps.apple.com/eg/app/koi-sushi/id6757390423">
+<img src="images/app store logo.png" width="150">
+</a>
+</p>
+
+---
+
 ## Zi Sushi
 A full-featured food ordering app with real-time order tracking, push notifications, guest mode, and bilingual support
 (Arabic & English) with light/dark themes and Implemented secure authentication (Google Sign-In, Apple Sign-In, login/registration).
