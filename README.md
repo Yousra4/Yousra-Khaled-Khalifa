@@ -101,6 +101,7 @@ Bilal is a modern Islamic mobile application that provides accurate prayer times
 <img src="images/app store logo.png" width="150">
 </a>
 </p>
+
 ---
 
 ## Asda Al-Khaleej - أصداء الخليج
