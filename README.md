@@ -121,6 +121,23 @@ News application delivering real-time updates, articles, and notifications.
 
 ---
 
+## Case Solver - مافيوسو
+Case Solver – Mafia is a social deduction and mystery game where players take on secret roles such as civilians, investigators, special characters, or the Mafia. Players collect clues, analyze behavior, debate with others, and vote to uncover the Mafia while using strategy, deception, and persuasion to survive and win.
+
+<img src="images/mafioso.png" width="700"/>
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.digitalbondmena.mafia_boss&hl=ar">
+<img src="images/google play logo.png" width="150">
+</a>
+
+<a href="https://apps.apple.com/au/app/case-solver-مافيوسو/id6777988723">
+<img src="images/app store logo.png" width="150">
+</a>
+</p>
+
+---
+
 ## Tabea - تابع
 Power outage tracking application that helps users stay informed and prepared for electricity disruptions.
 
