@@ -10,7 +10,7 @@ Experienced in delivering production-ready apps published on Google Play, App St
 
 ## 👩‍💻 About Me
 
-- 📱 **Senior Flutter Developer** with 4+ years of experience in production mobile apps  
+- 📱 **Senior Flutter Developer** with 5+ years of experience in production mobile apps  
 - 🏗️ Strong experience with **MVVM architecture & modern state management**  
 - ⚡ Skilled in building **high-performance, scalable, and responsive applications**  
 - 🔐 Experienced with **secure authentication** (Google, Apple, Facebook) and data encryption  
@@ -85,6 +85,22 @@ real-time navigation, and trip history.
 </a>
 </p>
 
+---
+
+## Belal - بلال
+Bilal is a modern Islamic mobile application that provides accurate prayer times, Qibla direction, Quran , Taser, Adhkar, and customizable prayer notifications based on the user’s location. It also supports personalized prayer reminders and audio notifications, offering a simple and seamless experience for daily worship.
+
+<img src="images/belal.png" width="700"/>
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.digitalbondmena.belal">
+<img src="images/google play logo.png" width="150">
+</a>
+
+<a href="https://apps.apple.com/eg/app/%D8%A8%D9%84%D8%A7%D9%84/id6792458804">
+<img src="images/app store logo.png" width="150">
+</a>
+</p>
 ---
 
 ## Asda Al-Khaleej - أصداء الخليج
